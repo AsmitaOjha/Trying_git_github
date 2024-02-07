@@ -9,3 +9,4 @@ print(fruits)
 fruits = ['apple', 'mango', 'pomegranate', 'graphes','banana']
 print(fruits)
 
+print("Thank you Shraddha Didi 😌")
